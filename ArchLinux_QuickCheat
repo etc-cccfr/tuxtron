@@ -1,0 +1,15 @@
+Some cheats for ARCH_201512.iso
+
+set root=(hd0)
+linux   /arch/boot/x86_64/vmlinuz archisobasedir=arch archisolabel=ARCH_201512
+# initrd  /arch/boot/intel_ucode.img    # with this i get regular ERRORs dpll_hw_state
+initrd  /arch/boot/x86_64/archiso.img
+boot
+
+loadkeys de-latin1
+setfont sun12x22
+
+Backup internal flash disk to external USB device (here sdb1):
+    mount /dev/sdb1 /mnt
+    dd if=/dev/mmcblk0 of=/mnt/backup.image bs=4M
+    
