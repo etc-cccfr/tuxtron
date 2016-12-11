@@ -1,11 +1,34 @@
-https://github.com/LiteWaveLabs/Wintron
+Bay Trail Plattform:
 
-https://github.com/TobleMiner/wintron7.0
+    https://bbs.archlinux.org/viewtopic.php?id=195027
+         Installing ArchLinux to a 64-bit system that ONLY supports 32-bit UEFI boot.
+    
+    https://github.com/hadess/rtl8723bs/issues/76
+        About sudden/random lockups.
+        
+    https://blogs.intel.com/evangelists/2015/07/22/why-cheap-systems-run-32-bit-uefi-on-x64-systems/
+        About 32-bit UEFI on 64-bit platforms.
+        
+Realtek Wifi & Bluetooth:
+    
+    https://github.com/hadess/rtl8723bs
+        Realtek SDIO Wi-Fi driver.
+        
+TrekStore Wintron:
 
-https://github.com/Jereviendrai/potato
+    https://github.com/LiteWaveLabs/Wintron
+        Firmware for the Trekstor Wintron 7 Touch.
 
-https://docs.google.com/document/d/1kbmTJKS37hc4NXBQe9svoBlUmAsITZXnw-3PLIGHDCo/edit#
+    https://github.com/TobleMiner/wintron7.0
+        Linux 4.4.0 on TrekStor SurfTab wintron 7.0
 
-https://bbs.archlinux.org/viewtopic.php?id=195027
+    https://github.com/Jereviendrai/potato
+        Collected knowledge on the TrekStor Wintron Surftab 7.0
+        
+Other Bay Trail tablet models (non TrekStore Wintron):
 
-https://blogs.intel.com/evangelists/2015/07/22/why-cheap-systems-run-32-bit-uefi-on-x64-systems/
+    https://docs.google.com/document/d/1kbmTJKS37hc4NXBQe9svoBlUmAsITZXnw-3PLIGHDCo/edit#
+        ASUS X205TA Arch Linux Installation Guide
+        
+
+    
