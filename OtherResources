@@ -36,5 +36,10 @@ Other Bay Trail tablet models (non TrekStore Wintron):
     https://docs.google.com/document/d/1kbmTJKS37hc4NXBQe9svoBlUmAsITZXnw-3PLIGHDCo/edit#
         ASUS X205TA Arch Linux Installation Guide
         
+Bugzilla
 
+    https://bugzilla.kernel.org/show_bug.cgi?id=109051#c434
+        Bug 109051 - intel_idle.max_cstate=1 required on baytrail to prevent crashes
+        
+        
     
